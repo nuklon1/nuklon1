@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nuklon1
 - 👀 I’m interested in programming, physics, music 
-- 🌱 I’m currently learning vue
+- 🌱 I’m currently learning vue & golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
